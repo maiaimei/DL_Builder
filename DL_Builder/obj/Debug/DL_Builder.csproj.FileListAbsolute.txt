@@ -1,0 +1,65 @@
+E:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Builder.resources
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.csproj.GenerateResource.Cache
+E:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+E:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Add_Column.resources
+F:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+F:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+F:\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Add_Column.resources
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Builder.resources
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.csproj.GenerateResource.Cache
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+F:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+E:\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\ResolveAssemblyReference.cache
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Add_Column.resources
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Builder.resources
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\GenerateResource.read.1.tlog
+E:\document\DL_Builder 功能 - 创建表结构、修改表结构（添加字段)\DL_Builder\DL_Builder\obj\Debug\GenerateResource.write.1.tlog
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Add_Column.resources
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Table_Builder.resources
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.csproj.GenerateResource.Cache
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+E:\Tool\DL_Builder\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+E:\Tool\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+E:\Tool\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+E:\Tool\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.AlterTableAddColumn.resources
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.CreateTable.resources
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.csproj.GenerateResource.Cache
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+E:\Tool\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+F:\code\2017\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+F:\code\2017\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+F:\code\2017\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
+F:\maiaimei\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe.config
+F:\maiaimei\DL_Builder\DL_Builder\bin\Debug\DL_Builder.exe
+F:\maiaimei\DL_Builder\DL_Builder\bin\Debug\DL_Builder.pdb
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Main.resources
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.Properties.Resources.resources
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.AlterTableAddColumn.resources
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.CreateTable.resources
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.csproj.GenerateResource.Cache
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.exe
+F:\maiaimei\DL_Builder\DL_Builder\obj\Debug\DL_Builder.pdb
