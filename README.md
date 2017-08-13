@@ -3,14 +3,4 @@
 
 附上运行截图：
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/rule.jpg)
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/createsql.jpg)
-
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/altersql.jpg)
-
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execcreate.jpg)
-
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execalter.jpg)
-
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/design.jpg)
