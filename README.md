@@ -5,12 +5,12 @@
 
 ![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/rule.jpg)
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/"create sql.jpg")
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/createsql.jpg)
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/alter sql.jpg)
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/altersql.jpg)
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/exec create.jpg)
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execcreate.jpg)
 
-![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/exec alter.jpg)
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execalter.jpg)
 
 ![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/design.jpg)
