@@ -3,4 +3,19 @@
 
 附上运行截图：
 
+创建表
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/definition1.jpg)
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/rule.jpg)
 
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/createsql.jpg)
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execcreate.jpg)
+
+修改表 - 新增字段
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/definition2.jpg)
+
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/altersql.jpg)
+
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/execalter.jpg)
+
+表设计
+![alt text](https://github.com/maiaimei/DL_Builder/blob/master/image/design.jpg)
